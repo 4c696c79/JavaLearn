@@ -1,4 +1,4 @@
-package EjercicioCuatro;
+package EjMetodos1;
 
 public class MetodosJava {
     /*

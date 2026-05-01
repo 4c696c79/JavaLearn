@@ -1,7 +1,7 @@
-package EjercicioCuatro;
+package EjMetodos1;
 
 import java.util.Scanner;
-import static EjercicioCuatro.MetodosJava.*;
+import static EjMetodos1.MetodosJava.*;
 
 public class Main {
     public static void main(String[] args) {

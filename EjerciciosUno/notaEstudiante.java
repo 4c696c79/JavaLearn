@@ -10,7 +10,7 @@ public class notaEstudiante {
          * Pedirle al usuario su nota (0-100). Mostrar: "Sobresaliente" (90-100),
          * "Muy bueno" (80-89), "Bueno" (70-79), "Aprobado" (60-69), "Reprobado" (0-59).
          */
-        System.out.println("\nEscriba su nota para comprobar su rendimiento academico");
+        System.out.println("Escriba su nota para comprobar su rendimiento academico del 0 al 100");
         String nota = entrada.nextLine().trim().toLowerCase();
         if (!MetodosEjercicios.numeroComprobar(nota)) {
             System.out.println("Error: Escriba un número valido");

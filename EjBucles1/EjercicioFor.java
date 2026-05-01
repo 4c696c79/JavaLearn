@@ -1,4 +1,4 @@
-package EjercicioTres;
+package EjBucles1;
 
 import java.util.Scanner;
 import static EjerciciosUno.MetodosEjercicios.*;

@@ -1,4 +1,4 @@
-package EjercicioTres;
+package EjBucles1;
 
 import static EjerciciosUno.MetodosEjercicios.*;
 import java.time.LocalDate;

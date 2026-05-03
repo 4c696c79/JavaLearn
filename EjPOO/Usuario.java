@@ -55,6 +55,7 @@ class Tecnico extends Usuario{
     public int trabajoHechos(){
         return cantTrabajos++;
     }
+    System.out.println("HOLA :3");
 
 }
 

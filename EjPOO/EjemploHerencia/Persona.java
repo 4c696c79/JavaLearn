@@ -7,6 +7,10 @@ public class Persona {
     protected String nombre;
     protected String domicilio;
 
+    public Persona (){
+        
+    }
+
     public Persona(int id, int edad, int ci, String nombre, String dir){
         this.id = id;
         this.edad = edad;

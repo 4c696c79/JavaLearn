@@ -33,6 +33,10 @@ public class Main {
         }else {
             System.out.println("Bueno, su nickname actual es:"+cli1.getUsuario());
         }
+        //Aclaración: no podes asignar una variable de la clase padre a las hijas, pero si podes hacer al reves, la clase padre puede tener los valores de las clases hijas 
+        //Persona ola = new Persona();
+        //ola = cli1;
+        //emple = ola;
 
 
 

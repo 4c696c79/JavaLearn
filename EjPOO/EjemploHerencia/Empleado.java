@@ -18,7 +18,7 @@ public class Empleado extends Persona {
 
     public double aumento() {
         System.out.println("Se le aumento 1000$ a su sueldo :D");
-        return sueldo + 1000.00;
+        return (sueldo < 0) ? sueldo + 1000.00 : 0;
     }
 
     public double cambioDeSueldo(double sueldoNuevo){

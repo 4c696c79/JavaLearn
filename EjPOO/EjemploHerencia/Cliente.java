@@ -14,7 +14,7 @@ public class Cliente extends Persona{
         System.out.println("mi nickname es: " +usuario);
     }
     public void nicknameNuevo(String nickNuevo){
-        if (!(nickNuevo.isEmpty()) && nickNuevo.length() <= 30) {
+        if (!(nickNuevo.isBlank()) && nickNuevo.length() <= 30) {
             System.out.println("Su nickname antiguo:" + usuario+"\nnickname nuevo:"+nickNuevo);
             usuario = nickNuevo;
         }

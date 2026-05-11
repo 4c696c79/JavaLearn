@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EjPOO/Biblioteca/Biblioteca.iml" filepath="$PROJECT_DIR$/EjPOO/Biblioteca/Biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLearn.iml" filepath="$PROJECT_DIR$/JavaLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjPOO/MiniSisTurnos/MiniSisTurnos.iml" filepath="$PROJECT_DIR$/EjPOO/MiniSisTurnos/MiniSisTurnos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjPOO/SisEmpleado/SisEmpleado.iml" filepath="$PROJECT_DIR$/EjPOO/SisEmpleado/SisEmpleado.iml" />
+    </modules>
+  </component>
+</project>
